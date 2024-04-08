@@ -1,4 +1,4 @@
-# ai-3
+# AI-3
 LLM model
 1st: you need to install anaconda and configure it properly
 2nd: u need to create an environmental path so that it works
